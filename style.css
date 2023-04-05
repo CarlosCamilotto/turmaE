@@ -4,3 +4,20 @@ header {
 ul{
     font-size: 60px;
 }
+
+.menu{
+    font-size: 60px;
+    display: flex;
+    margin-left: 1000px;
+}
+.internetp{
+    width: 180;
+    position: relative;
+    left: 200px;
+    top: 50px;
+}
+
+.item1lista{
+    color: red;
+    margin-right: 60px;
+}
